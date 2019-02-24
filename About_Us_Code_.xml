@@ -1,0 +1,41 @@
+<html>
+    <header>
+        <link rel = "stylesheet" href = "aboutus.css" />
+        <title>
+            Barbados 4 Seniors - About Us
+        </title>
+    </header>
+
+    <body>
+        
+            <article>
+                <h2>
+                    About Us
+                </h2>
+                <img class = "imagesize" src="aboutuspic1.jpg" alt="Business Photo" />
+                <section>
+                    <article>
+                <p>
+                    Barbados 4 Seniors was established in 2019 to make sure the seniors in society add to our communities in the most effective ways.
+                </p>
+                <p>
+                    It was created by the team of the Code 101 Source Code Academy. We can be contacted at 555-9999 or email us at barbados4seniors@gmail.com. 
+                </p> 
+                    </article>
+                        <ul>
+                                <li> <a href="https://facebook.com"> <img class = "iconsize" src="facebooklogo.jpg"alt="Facebook logo" />  </a>  Click link to Facebook </li>
+                                <li> <a href="https://instagram.com"> <img class = "iconsize" src="instagramlogo.jpg" alt="Instagram logo" /> </a> Click link to Instagram </li>
+                            <!-- 
+                            <li> <span> <img src="facebooklogo.jpg" alt="Facebook logo" /> <a href="https://facebook.com"> Facebook </a>   </span> </li>
+                            <li> <span> <img src="instagramlogo.jpg" alt="Instagram logo" /> <a href="https://instagram.com"> Instagram </a>  </span> </li>
+                            -->
+                        </ul>
+                <p>
+                        Follow us on social media <class="boldfont">@barbados4seniors./> 
+                </p>
+                </section>
+    <footer>
+        <p> <span>&#169; Copyright 2019. All rights reserved. </span></p>
+    </footer>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+h2 {
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80;
+}
+
+.iconsize {
+    height: 30px;
+    width: 40px;
+}
+
+li {
+    list-style: none;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 70px;
+}
+
+.imagesize {
+    height: 674px;
+    width: 1000px;
+}
+
+li {
+    font-size: 12px;
+    color: red;
+}
+
+.boldfont {
+    font-weight: bold;
+}
